@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Felix1976BB
 - 👀 I’m interested in repository for my study tasks
-- 🌱 I’m currently learning Data Science/Machine Learning
+- 🌱 I’m currently learning Test Automation
 - 💞️ I’m looking to collaborate on nothing - at least now.
 - 📫 How to reach me - by email felixbmw1976@gmail.com
 
